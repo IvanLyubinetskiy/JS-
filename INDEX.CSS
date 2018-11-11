@@ -1,0 +1,12 @@
+#block{
+  height: auto;
+  width: 400px;
+  border: 1px solid black;
+}
+.taskClass{
+  padding-left: 20px;
+}
+.taskClass:hover{
+  background: #F5F5F5;
+  cursor: pointer;
+}
